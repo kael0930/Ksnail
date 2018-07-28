@@ -1,0 +1,2 @@
+if not exist "$(VMS)\include\$(ProjectName)" mkdir "$(VMS)\include\$(ProjectName)"
+for /r $(ProjectDir) %%i in (*.h) do xcopy "%%i" $(VMS)\include\$(ProjectName) /y
