@@ -2,9 +2,9 @@
 **
 **                                 中国软件开源组织
 **
-**                                   虚拟军事平台
+**                                   虚拟军事仿真平台
 **
-**                           	Ksnail(TM)  VMS：virtual military system
+**                           	Ksnail(TM)  VMS：virtual military simulation
 **
 **                               Copyright All Rights Reserved
 **
